@@ -1,0 +1,3 @@
+([('Zeiterfassung',
+   '/Users/nilsmarthiensen/Code/time-tracker-build/dist/Zeiterfassung',
+   'EXECUTABLE')],)
